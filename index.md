@@ -1,3 +1,3 @@
-# New web site
+# My new web site
 
-Congrats! You have a web site. Now you can start adding content to it!
+Testing out some stuff with GH Pages and the GH API.

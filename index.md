@@ -1,3 +1,3 @@
-# My new web site
+# Hello, world!
 
 Testing out some stuff with GH Pages and the GH API.
